@@ -5,6 +5,10 @@ using Microsoft.Extensions.Configuration;
 
 namespace HoloRed.Infrastructure.Services
 {
+    /// <summary>
+    /// Servicio de telemetría usando Cassandra como base de datos de familias de columnas.
+    /// Diseñado para absorber miles de escrituras por segundo de impactos en combate.
+    /// </summary>
     public class CassandraService : ITelemetriaService
     {
         private readonly ISession _session;
@@ -27,6 +31,11 @@ namespace HoloRed.Infrastructure.Services
             InicializarKeyspace(keyspace);
         }
 
+        /// <summary>
+        /// Crea el keyspace y la tabla si no existen.
+        /// La clave de partición es (sector_id, fecha) para que las consultas
+        /// por sector y día no hagan full scan.
+        /// </summary>
         private void InicializarKeyspace(string keyspace)
         {
             _session.Execute($@"
@@ -35,6 +44,9 @@ namespace HoloRed.Infrastructure.Services
 
             _session.Execute($"USE {keyspace}");
 
+            // PRIMARY KEY ((sector_id, fecha), timestamp, id)
+            // sector_id + fecha = clave de partición → búsquedas rápidas por sector y día
+            // timestamp + id = clave de agrupamiento → ordenados por tiempo descendente
             _session.Execute(@"
                 CREATE TABLE IF NOT EXISTS impactos_combate (
                     sector_id text,
@@ -48,6 +60,9 @@ namespace HoloRed.Infrastructure.Services
                 ) WITH CLUSTERING ORDER BY (timestamp DESC)");
         }
 
+        /// <summary>
+        /// Registra un impacto de combate en tiempo real.
+        /// </summary>
         public async Task RegistrarImpactoAsync(ImpactoTelemetria impacto)
         {
             try
@@ -79,6 +94,10 @@ namespace HoloRed.Infrastructure.Services
             }
         }
 
+        /// <summary>
+        /// Devuelve todos los impactos de un sector en un día concreto.
+        /// La consulta usa la clave de partición completa, sin full scan.
+        /// </summary>
         public async Task<IEnumerable<ImpactoTelemetria>> ObtenerHistorialAsync(string sectorId, DateOnly fecha)
         {
             try
