@@ -1,8 +1,8 @@
-﻿namespace HoloRed.Domain
+namespace HoloRed.Domain
 {
     public class NaveEstado
     {
         public string Codigo { get; set; } = string.Empty;
-        public string Estado { get; set; } = "patrulla"; // patrulla, hiperespacio, combate
+        public EstadoNave Estado { get; set; } = EstadoNave.Patrulla;
     }
 }

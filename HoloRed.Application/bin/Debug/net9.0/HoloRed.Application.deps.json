@@ -8,16 +8,21 @@
     ".NETCoreApp,Version=v9.0": {
       "HoloRed.Application/1.0.0": {
         "dependencies": {
-          "HoloRed.Domain": "1.0.0"
+          "HoloRed.Domain": "1.0.0",
+          "Swashbuckle.AspNetCore": "9.0.0"
         },
         "runtime": {
           "HoloRed.Application.dll": {}
         }
       },
+      "Swashbuckle.AspNetCore/9.0.0": {},
       "HoloRed.Domain/1.0.0": {
+        "dependencies": {
+          "Swashbuckle.AspNetCore": "9.0.0"
+        },
         "runtime": {
           "HoloRed.Domain.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -29,6 +34,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Swashbuckle.AspNetCore/9.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-y6Q+U2Y6lrY0W8jQ97zSdFWuQioxXx4zbTLVFQBh9jcxkvizo2Y4pRNK0xx3VsYy78qQjSJNsarxAxr4VQqUHw==",
+      "path": "swashbuckle.aspnetcore/9.0.0",
+      "hashPath": "swashbuckle.aspnetcore.9.0.0.nupkg.sha512"
     },
     "HoloRed.Domain/1.0.0": {
       "type": "project",

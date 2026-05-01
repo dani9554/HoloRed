@@ -1,16 +1,32 @@
-C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Application\bin\Debug\net9.0\HoloRed.Application.deps.json
-C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Application\bin\Debug\net9.0\HoloRed.Application.dll
-C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Application\bin\Debug\net9.0\HoloRed.Application.pdb
-C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Application\bin\Debug\net9.0\HoloRed.Domain.dll
-C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Application\bin\Debug\net9.0\HoloRed.Domain.pdb
-C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Application\obj\Debug\net9.0\HoloRed.Application.csproj.AssemblyReference.cache
-C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Application\obj\Debug\net9.0\HoloRed.Application.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Application\obj\Debug\net9.0\HoloRed.Application.AssemblyInfoInputs.cache
-C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Application\obj\Debug\net9.0\HoloRed.Application.AssemblyInfo.cs
-C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Application\obj\Debug\net9.0\HoloRed.Application.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Application\obj\Debug\net9.0\HoloRed.Application.sourcelink.json
-C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Application\obj\Debug\net9.0\HoloRed..6678EC91.Up2Date
-C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Application\obj\Debug\net9.0\HoloRed.Application.dll
-C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Application\obj\Debug\net9.0\refint\HoloRed.Application.dll
-C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Application\obj\Debug\net9.0\HoloRed.Application.pdb
-C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Application\obj\Debug\net9.0\ref\HoloRed.Application.dll
+C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Application/bin/Debug/net9.0/HoloRed.Application.deps.json
+C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Application/bin/Debug/net9.0/HoloRed.Application.dll
+C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Application/bin/Debug/net9.0/HoloRed.Application.pdb
+C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Application/bin/Debug/net9.0/HoloRed.Domain.dll
+C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Application/bin/Debug/net9.0/HoloRed.Domain.pdb
+C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Application/obj/Debug/net9.0/HoloRed.Application.csproj.AssemblyReference.cache
+C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Application/obj/Debug/net9.0/HoloRed.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Application/obj/Debug/net9.0/HoloRed.Application.AssemblyInfoInputs.cache
+C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Application/obj/Debug/net9.0/HoloRed.Application.AssemblyInfo.cs
+C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Application/obj/Debug/net9.0/HoloRed.Application.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Application/obj/Debug/net9.0/HoloRed.Application.sourcelink.json
+C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Application/obj/Debug/net9.0/HoloRed..6678EC91.Up2Date
+C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Application/obj/Debug/net9.0/HoloRed.Application.dll
+C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Application/obj/Debug/net9.0/refint/HoloRed.Application.dll
+C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Application/obj/Debug/net9.0/HoloRed.Application.pdb
+C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Application/obj/Debug/net9.0/ref/HoloRed.Application.dll
+/Users/alx/Downloads/Ejercicio1B/HoloRed/HoloRed.Application/bin/Debug/net9.0/HoloRed.Application.deps.json
+/Users/alx/Downloads/Ejercicio1B/HoloRed/HoloRed.Application/bin/Debug/net9.0/HoloRed.Application.dll
+/Users/alx/Downloads/Ejercicio1B/HoloRed/HoloRed.Application/bin/Debug/net9.0/HoloRed.Application.pdb
+/Users/alx/Downloads/Ejercicio1B/HoloRed/HoloRed.Application/bin/Debug/net9.0/HoloRed.Domain.dll
+/Users/alx/Downloads/Ejercicio1B/HoloRed/HoloRed.Application/bin/Debug/net9.0/HoloRed.Domain.pdb
+/Users/alx/Downloads/Ejercicio1B/HoloRed/HoloRed.Application/obj/Debug/net9.0/HoloRed.Application.csproj.AssemblyReference.cache
+/Users/alx/Downloads/Ejercicio1B/HoloRed/HoloRed.Application/obj/Debug/net9.0/HoloRed.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alx/Downloads/Ejercicio1B/HoloRed/HoloRed.Application/obj/Debug/net9.0/HoloRed.Application.AssemblyInfoInputs.cache
+/Users/alx/Downloads/Ejercicio1B/HoloRed/HoloRed.Application/obj/Debug/net9.0/HoloRed.Application.AssemblyInfo.cs
+/Users/alx/Downloads/Ejercicio1B/HoloRed/HoloRed.Application/obj/Debug/net9.0/HoloRed.Application.csproj.CoreCompileInputs.cache
+/Users/alx/Downloads/Ejercicio1B/HoloRed/HoloRed.Application/obj/Debug/net9.0/HoloRed.Application.sourcelink.json
+/Users/alx/Downloads/Ejercicio1B/HoloRed/HoloRed.Application/obj/Debug/net9.0/HoloRed..6678EC91.Up2Date
+/Users/alx/Downloads/Ejercicio1B/HoloRed/HoloRed.Application/obj/Debug/net9.0/HoloRed.Application.dll
+/Users/alx/Downloads/Ejercicio1B/HoloRed/HoloRed.Application/obj/Debug/net9.0/refint/HoloRed.Application.dll
+/Users/alx/Downloads/Ejercicio1B/HoloRed/HoloRed.Application/obj/Debug/net9.0/HoloRed.Application.pdb
+/Users/alx/Downloads/Ejercicio1B/HoloRed/HoloRed.Application/obj/Debug/net9.0/ref/HoloRed.Application.dll
