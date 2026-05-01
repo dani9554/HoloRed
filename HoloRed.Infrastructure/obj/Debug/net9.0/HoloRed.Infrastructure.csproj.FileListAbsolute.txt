@@ -1,21 +1,3 @@
-C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Infrastructure/obj/Debug/net9.0/HoloRed.Infrastructure.csproj.AssemblyReference.cache
-C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Infrastructure/obj/Debug/net9.0/HoloRed.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Infrastructure/obj/Debug/net9.0/HoloRed.Infrastructure.AssemblyInfoInputs.cache
-C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Infrastructure/obj/Debug/net9.0/HoloRed.Infrastructure.AssemblyInfo.cs
-C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Infrastructure/obj/Debug/net9.0/HoloRed.Infrastructure.csproj.CoreCompileInputs.cache
-C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Infrastructure/obj/Debug/net9.0/HoloRed.Infrastructure.sourcelink.json
-C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Infrastructure/bin/Debug/net9.0/HoloRed.Infrastructure.deps.json
-C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Infrastructure/bin/Debug/net9.0/HoloRed.Infrastructure.dll
-C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Infrastructure/bin/Debug/net9.0/HoloRed.Infrastructure.pdb
-C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Infrastructure/bin/Debug/net9.0/HoloRed.Application.dll
-C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Infrastructure/bin/Debug/net9.0/HoloRed.Domain.dll
-C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Infrastructure/bin/Debug/net9.0/HoloRed.Application.pdb
-C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Infrastructure/bin/Debug/net9.0/HoloRed.Domain.pdb
-C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Infrastructure/obj/Debug/net9.0/HoloRed..309563FD.Up2Date
-C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Infrastructure/obj/Debug/net9.0/HoloRed.Infrastructure.dll
-C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Infrastructure/obj/Debug/net9.0/refint/HoloRed.Infrastructure.dll
-C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Infrastructure/obj/Debug/net9.0/HoloRed.Infrastructure.pdb
-C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/HoloRed/HoloRed.Infrastructure/obj/Debug/net9.0/ref/HoloRed.Infrastructure.dll
 /Users/alx/Downloads/Ejercicio1B/HoloRed/HoloRed.Infrastructure/bin/Debug/net9.0/HoloRed.Infrastructure.deps.json
 /Users/alx/Downloads/Ejercicio1B/HoloRed/HoloRed.Infrastructure/bin/Debug/net9.0/HoloRed.Infrastructure.dll
 /Users/alx/Downloads/Ejercicio1B/HoloRed/HoloRed.Infrastructure/bin/Debug/net9.0/HoloRed.Infrastructure.pdb
@@ -34,3 +16,21 @@ C:/Users/Usuario/Desktop/DAM2/Acceso a Datos/2ºEvaluacion/Tema 5/Ejercicio1B/Ho
 /Users/alx/Downloads/Ejercicio1B/HoloRed/HoloRed.Infrastructure/obj/Debug/net9.0/refint/HoloRed.Infrastructure.dll
 /Users/alx/Downloads/Ejercicio1B/HoloRed/HoloRed.Infrastructure/obj/Debug/net9.0/HoloRed.Infrastructure.pdb
 /Users/alx/Downloads/Ejercicio1B/HoloRed/HoloRed.Infrastructure/obj/Debug/net9.0/ref/HoloRed.Infrastructure.dll
+C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Infrastructure\obj\Debug\net9.0\HoloRed.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Infrastructure\obj\Debug\net9.0\HoloRed.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Infrastructure\obj\Debug\net9.0\HoloRed.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Infrastructure\obj\Debug\net9.0\HoloRed.Infrastructure.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Infrastructure\obj\Debug\net9.0\HoloRed.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Infrastructure\obj\Debug\net9.0\HoloRed.Infrastructure.sourcelink.json
+C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Infrastructure\bin\Debug\net9.0\HoloRed.Infrastructure.deps.json
+C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Infrastructure\bin\Debug\net9.0\HoloRed.Infrastructure.dll
+C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Infrastructure\bin\Debug\net9.0\HoloRed.Infrastructure.pdb
+C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Infrastructure\bin\Debug\net9.0\HoloRed.Application.dll
+C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Infrastructure\bin\Debug\net9.0\HoloRed.Domain.dll
+C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Infrastructure\bin\Debug\net9.0\HoloRed.Application.pdb
+C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Infrastructure\bin\Debug\net9.0\HoloRed.Domain.pdb
+C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Infrastructure\obj\Debug\net9.0\HoloRed..309563FD.Up2Date
+C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Infrastructure\obj\Debug\net9.0\HoloRed.Infrastructure.dll
+C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Infrastructure\obj\Debug\net9.0\refint\HoloRed.Infrastructure.dll
+C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Infrastructure\obj\Debug\net9.0\HoloRed.Infrastructure.pdb
+C:\Users\Usuario\Desktop\DAM2\Acceso a Datos\2ºEvaluacion\Tema 5\Ejercicio1B\HoloRed\HoloRed.Infrastructure\obj\Debug\net9.0\ref\HoloRed.Infrastructure.dll
